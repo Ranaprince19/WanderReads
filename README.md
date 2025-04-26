@@ -78,7 +78,7 @@ Users can view and use the app but cannot fork, modify, or redistribute.
 
 ## 🎥 Demo Video
 
-[▶️ Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1Lj6rqQJ4ocl2qMqcgKGtVUK2-MQ17vqn/view?usp=drive_link)
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1Lj6rqQJ4ocl2qMqcgKGtVUK2-MQ17vqn/view?usp=drive_link)
 
 ---
 
